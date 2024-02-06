@@ -7,7 +7,7 @@
 
 - **Hello, my name is Daniel, but you can call me Danny. I am 28 years old and was born in Yerevan. My interest in programming sparked at the age of 25, marking the beginning of an active exploration of various aspects of programming. Currently, I am proficient in JavaScript and familiar with Python and C++. I plan to further master these languages in the future. Additionally, I am open to learning other programming languages as needed. I also possess skills in HTML5 and CSS3, along with various tools as indicated below.**
 
-- 📫 How to reach me **danielvoskanyan25552gmail.com**
+- 📫 How to reach me **danielvoskanyan25552@gmail.com**
 
 - 📄 Know about my experiences [https://staff.am/en/profile/dan-alen-a69891baef99127a](https://staff.am/en/profile/dan-alen-a69891baef99127a)
 
